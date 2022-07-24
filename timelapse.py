@@ -1,6 +1,7 @@
 # timelapse after crash 2022
 # modify the raspberry configuration, activating the camera. picamera is already installed 
 # in raspian version v10
+#[MRE]#############################
 
 from picamera import PiCamera
 from os import system
